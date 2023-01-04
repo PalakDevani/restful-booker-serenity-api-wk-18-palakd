@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking CURD test with steps","This will create token","SUCCESS","2023-01-03T23:59:30.340Z[Europe/London]","0.0","2.87"
+"Booking CURD test with steps","This will create Booking","SUCCESS","2023-01-03T23:59:33.219Z[Europe/London]","0.0","0.52"
+"Booking CURD test with steps","Update booking information","SUCCESS","2023-01-03T23:59:34.230Z[Europe/London]","0.0","0.46"
+"Booking CURD test with steps","Delete booking and verify that booking deleted ","SUCCESS","2023-01-03T23:59:34.688Z[Europe/London]","0.0","0.92"
